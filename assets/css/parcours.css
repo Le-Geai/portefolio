@@ -6,6 +6,10 @@ body {
     background-image: url(../img/parcours.jpg);
     background-attachment: fixed;
 }
+.note, .note a {
+    color: black;
+    font-size: 15px !important;
+} 
 .timeline{
     margin-top:20px;
     position:relative;
